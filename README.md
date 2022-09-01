@@ -5,7 +5,7 @@ Börja ett tomt projekt och ha installerat node.js redan.
 
 installera Vite först genom: 
 ``` 
-npm vite@latest . 
+npm init vite@latest .
 ```
 välj react.
 Efter det skriver du ``` npm install ```
